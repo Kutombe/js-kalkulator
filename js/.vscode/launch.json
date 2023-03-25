@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "file:///C:/Users/user/Desktop/rafa%C5%82/js/nauka/poczatek/gra.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
