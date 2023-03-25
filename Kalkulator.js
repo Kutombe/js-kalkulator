@@ -52,6 +52,7 @@ class Calculator {
     }
 
     delete() {
+        console.log("aaaaaa");
     }
 
     appendNumber(number) {
